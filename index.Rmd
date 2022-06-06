@@ -150,7 +150,7 @@ include_graphics(here("Figures","ex1.png"))
 ---
 class: center, middle
 
-## Example 2: For base R users/graphs using lattice
+## Example 2: For Rstudio users/graphs using ggplot
 
 .pull-left[
 ```{r ex2, message=FALSE, warning=FALSE}
